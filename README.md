@@ -6,6 +6,8 @@
 
 Задание 1 [Task1](Task1/).
 
+```Файл Task1.md или в случаее, когда gitverse не открывает файлы с изображением Task1 в формате.pdf```
+
 Задание 1 [Task2](Task1/).
 
-Java, запуск тестов mvn clean test.
+```Java, запуск тестов mvn clean test.```

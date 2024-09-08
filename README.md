@@ -1,0 +1,1 @@
+# Avito_test_task_QA_intern
